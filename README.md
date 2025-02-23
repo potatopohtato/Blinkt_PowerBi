@@ -87,9 +87,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, please contact:
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+- **Name**: Pranav P
+- **Email**: pranavkiran74@gmail.com
+- **GitHub**: https://github.com/potatopohtato
 
 ---
 
