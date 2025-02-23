@@ -66,21 +66,6 @@ The dataset used in this Power BI report includes the following key fields:
 
 ---
 
-## Screenshots
-
-Below are some screenshots of the Power BI report:
-
-1. **Sales Dashboard**:
-   ![Sales Dashboard](screenshots/sales_dashboard.png)
-
-2. **Customer Insights**:
-   ![Customer Insights](screenshots/customer_insights.png)
-
-3. **Operational Efficiency**:
-   ![Operational Efficiency](screenshots/operational_efficiency.png)
-
----
-
 ## Contributing
 
 If you would like to contribute to this project, please follow these steps:
